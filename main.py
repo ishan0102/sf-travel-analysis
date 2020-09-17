@@ -4,7 +4,6 @@ master_df = pd.read_excel('travel.xlsx', sheet_name='Data', header=0)
 
 '''
 ANALYSIS OF SF RESIDENTS
-
 Q4TOT: (SF Residents) How many trips did you take yesterday?
 Q5TOT: (SF Residents) How many trips did you take two days ago?
 CRSHRE: (SF Residents) Total of all Drove Car Share (3) entries for Q4aM to Q5hM
